@@ -1,0 +1,23 @@
+
+
+Nama		:Andreas
+Total Harga		:574500
+Metode Pembayaran		:COD
+Nama			:Andreas
+Total Harga	:1025500
+Metode Pembayaran		:COD
+Nama			:Andreas
+Total Harga	:1025500
+Metode Pembayaran		:COD
+Nama			:g
+Total Harga		:78000
+Metode Pembayaran	:COD
+Nama				:A
+Total Harga			:105500
+Metode Pembayaran	:COD
+Nama				:Andreas
+Total Harga			: Rp.260500
+Metode Pembayaran	:COD
+Nama				:A
+Total Harga			:Rp.166000
+Metode Pembayaran	:COD
